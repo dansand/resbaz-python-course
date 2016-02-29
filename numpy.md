@@ -280,7 +280,7 @@ tripledata:
  [ 6.  6.  3.  3.]]
 ~~~
 
-<!--
+
 
 Often, we want to do more than add, subtract, multiply, and divide values of data.
 Arrays also know how to do more complex operations on their values.
@@ -350,6 +350,8 @@ What if we need the maximum inflammation for *all* patients (as in the
 next diagram on the left), or the average for each day (as in the
 diagram on the right)? As the diagram below shows, we want to perform the
 operation across an axis:
+
+<!--
 
 ![Operations Across Axes](fig/python-operations-across-axes.svg)
 
