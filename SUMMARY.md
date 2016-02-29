@@ -6,4 +6,5 @@
 * [basics.md](basics.md)
 * [lists.md](lists.md)
 * [functions.md](functions.md)
+* libraries.md
 
