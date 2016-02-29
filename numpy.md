@@ -163,7 +163,7 @@ but one way to remember the rule is that
 the index is how many steps we have to take from the start to get the item we want.
 
 
-<!--
+
 
 An index like `data[250, 2]` selects a single element of an array,
 but we can select whole sections as well.
@@ -279,6 +279,8 @@ tripledata:
  [ 3.  3.  0.  3.]
  [ 6.  6.  3.  3.]]
 ~~~
+
+<!--
 
 Often, we want to do more than add, subtract, multiply, and divide values of data.
 Arrays also know how to do more complex operations on their values.
