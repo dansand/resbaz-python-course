@@ -400,6 +400,8 @@ print(data.mean(axis=1))
   6.1    6.825  5.975  6.725  5.7    6.25   6.4    7.05   5.9  ]
 ~~~
 
+-->
+
 which is the average inflammation per patient across all days.
 
 The mathematician Richard Hamming once said,
@@ -419,7 +421,7 @@ image  = matplotlib.pyplot.imshow(data)
 matplotlib.pyplot.show()
 ~~~
 
--->
+
 
 
 
