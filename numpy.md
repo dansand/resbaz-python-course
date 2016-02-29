@@ -360,6 +360,8 @@ most array methods allow us to specify the axis we want to work on.
 If we ask for the average across axis 0 (rows in our 2D example),
 we get:
 
+-->
+
 ~~~ {.python}
 print(data.mean(axis=0))
 ~~~
@@ -384,7 +386,7 @@ print(data.mean(axis=0).shape)
 (40,)
 ~~~
 
--->
+
 
 The expression `(40,)` tells us we have an N&times;1 vector,
 so this is the average inflammation per day for all patients.
