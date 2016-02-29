@@ -384,6 +384,8 @@ print(data.mean(axis=0).shape)
 (40,)
 ~~~
 
+-->
+
 The expression `(40,)` tells us we have an N&times;1 vector,
 so this is the average inflammation per day for all patients.
 If we average across axis 1 (columns in our 2D example), we get:
@@ -400,7 +402,7 @@ print(data.mean(axis=1))
   6.1    6.825  5.975  6.725  5.7    6.25   6.4    7.05   5.9  ]
 ~~~
 
--->
+
 
 which is the average inflammation per patient across all days.
 
