@@ -353,6 +353,7 @@ operation across an axis:
 
 <!--
 
+-->
 ![Operations Across Axes](fig/python-operations-across-axes.svg)
 
 To support this,
@@ -360,7 +361,7 @@ most array methods allow us to specify the axis we want to work on.
 If we ask for the average across axis 0 (rows in our 2D example),
 we get:
 
--->
+
 
 ~~~ {.python}
 print(data.mean(axis=0))
