@@ -1,5 +1,6 @@
 #Numpy
 
+<!--
 
 > ## Learning Objectives {.objectives}
 >
@@ -698,3 +699,4 @@ the graphs will actually be squeezed together more closely.)
 > ## Moving plots around {.challenge}
 >
 > Modify the program to display the three plots on top of one another instead of side by side.
+-->
