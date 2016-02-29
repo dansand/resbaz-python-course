@@ -2,7 +2,7 @@
 
 
 
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > *   Load a Python library and use the things it contains.
 > *   Read tabular data from a file into a program.
