@@ -5,5 +5,5 @@
 * [python.md](python.md)
 * [basics.md](basics.md)
 * [lists.md](lists.md)
-* variables.md
+* [variables.md](variables.md)
 
