@@ -351,7 +351,7 @@ next diagram on the left), or the average for each day (as in the
 diagram on the right)? As the diagram below shows, we want to perform the
 operation across an axis:
 
-
+<!--
 
 ![Operations Across Axes](fig/python-operations-across-axes.svg)
 
@@ -418,6 +418,8 @@ import matplotlib.pyplot
 image  = matplotlib.pyplot.imshow(data)
 matplotlib.pyplot.show()
 ~~~
+
+-->
 
 <!--
 
