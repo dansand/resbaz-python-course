@@ -352,9 +352,9 @@ diagram on the right)? As the diagram below shows, we want to perform the
 operation across an axis:
 
 <!--
--->
 
 ![Operations Across Axes](fig/python-operations-across-axes.svg)
+-->
 
 To support this,
 most array methods allow us to specify the axis we want to work on.
