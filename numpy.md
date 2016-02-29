@@ -421,7 +421,7 @@ matplotlib.pyplot.show()
 
 -->
 
-<!--
+
 
 ![Heatmap of the Data](fig/01-numpy_71_0.png)
 
@@ -613,4 +613,3 @@ the graphs will actually be squeezed together more closely.)
 > Modify the program to display the three plots on top of one another instead of side by side.
 
 
--->
